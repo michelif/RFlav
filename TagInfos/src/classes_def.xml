@@ -1,0 +1,6 @@
+<lcgdict>
+
+<class name="std::vector<reco::CompositePtrCandidate>"/>
+<class name="edm::Wrapper<std::vector<reco::CompositePtrCandidate>>"/>
+
+</lcgdict>

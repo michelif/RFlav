@@ -1,0 +1,20 @@
+
+<use   name="CommonTools/UtilAlgos"/>
+<use   name="CommonTools/Utils"/>
+<use   name="FWCore/Framework"/>
+<use   name="FWCore/ParameterSet"/>
+<use   name="FWCore/Utilities"/>
+
+<use   name="DataFormats/Candidate"/>
+<use   name="DataFormats/VertexReco"/>
+<use   name="DataFormats/PatCandidates"/>
+<use   name="CommonTools/CandUtils"/>
+
+<use   name="RecoVertex/AdaptiveVertexFinder"/>
+
+<use   name="root"/>
+<Flags CXXFLAGS="-ggdb"/>
+
+<export>
+  <lib   name="1"/>
+</export>
