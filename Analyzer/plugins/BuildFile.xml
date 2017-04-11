@@ -1,0 +1,14 @@
+<library   name="RFlavourTagInfos" file="*.cc">
+<use   name="FWCore/Framework"/>
+<use   name="FWCore/ParameterSet"/>
+<use   name="FWCore/Utilities"/>
+
+<use   name="DataFormats/Candidate"/>
+<use   name="DataFormats/VertexReco"/>
+<use   name="DataFormats/PatCandidates"/>
+<use   name="CommonTools/CandUtils"/>
+
+<use   name="RecoVertex/AdaptiveVertexFinder"/>
+
+<flags   EDM_PLUGIN="1"/>
+</library>
