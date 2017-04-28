@@ -27,7 +27,7 @@ private:
 	const pat::Jet * currJet_;
 	GlobalVector jdirection_;
 	size_t ijetb_;
-	size_t ptb_, etab_, phib_;
+	size_t ptrelb_, ptb_, etab_, phib_;
 	size_t typeb_;
 	size_t deltaRb_, distb_, lengthb_, dxyb_, dxyErrorb_, dzErrorb_, dzb_, sign2Db_, sign3Db_;
 	size_t iP2Db_, iP2Dsigb_, iPb_, iPsigb_, iP2Derrb_, iPerrb_;

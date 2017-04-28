@@ -60,17 +60,32 @@ globalTag = options.dataGlobalTag if options.runOnData else options.mcGlobalTag
 ## ]
 bTagInfos = None
 bTagDiscriminators = [
-    'softPFMuonBJetTags'
-    ,'softPFElectronBJetTags'
-    ,'pfCombinedMVAV2BJetTags'
-    ,'pfCombinedCvsBJetTags'
-    ,'pfCombinedCvsLJetTags'
-    ,'deepFlavourJetTags:probudsg'         
-    ,'deepFlavourJetTags:probb'            
-    ,'deepFlavourJetTags:probc'            
-    ,'deepFlavourJetTags:probbb'           
-    ,'deepFlavourJetTags:probcc'           
-    ]
+
+   'softPFMuonBJetTags'
+   ,'softPFElectronBJetTags'
+   ,'pfCombinedMVAV2BJetTags'
+   ,'pfCombinedCvsBJetTags'
+   ,'pfCombinedCvsLJetTags'
+
+   ,'deepFlavourJetTags:probudsg'         
+   ,'deepFlavourJetTags:probb'            
+   ,'deepFlavourJetTags:probc'            
+   ,'deepFlavourJetTags:probbb'           
+   ,'deepFlavourJetTags:probcc'           
+]
+
+### bTagDiscriminators = [
+###     'softPFMuonBJetTags'
+###     ,'softPFElectronBJetTags'
+###     ,'pfCombinedCvsBJetTags'
+###     ,'pfCombinedMVABJetTags'
+###     ,'pfCombinedMVAV2BJetTags'
+###     ,'deepFlavourJetTags:probudsg'         
+###     ,'deepFlavourJetTags:probb'            
+###     ,'deepFlavourJetTags:probc'            
+###     ,'deepFlavourJetTags:probbb'           
+###     ,'deepFlavourJetTags:probcc'           
+###     ]
 
 
 from PhysicsTools.PatAlgos.tools.jetTools import *
@@ -140,6 +155,7 @@ process.primaryVertexFilter = cms.EDFilter("GoodVertexFilter",
 # process.load("TrackingTools.TransientTrack.TransientTrackBuilder_cfi")
 process.load("RFlavour.Ntuplizer.rflavourNtuplizerSequence_cff")
 process.jetsWithClusters.jets = "selectedUpdatedPatJetsPFlow"
+process.selectedUpdatedPatJetsPFlow.cut = 'pt > 20 & abs(eta) < 2.5'
 
 process.filter = cms.Sequence(
     ## process.noscraping*

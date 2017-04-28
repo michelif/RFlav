@@ -21,8 +21,13 @@ JetNtuplizer::JetNtuplizer(const edm::ParameterSet &cfg, edm::ConsumesCollector 
 	genHadronFlavourb_ = bookByte("Jet_genHadronFlavour");
 	genNbHadronsb_ = bookByte("Jet_genNbHadrons");
 	genNcHadronsb_ = bookByte("Jet_genNcHadrons");
-	
-	
+	cCSVb_ = bookFloat("Jet_cCSV");
+	DeepCSVbb_ = bookFloat("Jet_DeepCSVb");
+	DeepCSVcb_ = bookFloat("Jet_DeepCSVc");
+	DeepCSVlb_ = bookFloat("Jet_DeepCSVl");
+	DeepCSVbbb_ = bookFloat("Jet_DeepCSVbb");
+	DeepCSVccb_ = bookFloat("Jet_DeepCSVcc");
+	cMVAv2b_ = bookFloat("Jet_cMVAv2");
 }
 	
 void JetNtuplizer::newEvent(const edm::Event & event, const edm::EventSetup& eventSetup)
@@ -58,6 +63,8 @@ void JetNtuplizer::addJet(const pat::Jet & jet)
 		}
 	}
 	
+
+	
 	fillFloat(ptb_,jet.pt());
 	fillFloat(etab_,jet.eta());
 	fillFloat(phib_,jet.phi());
@@ -72,6 +79,14 @@ void JetNtuplizer::addJet(const pat::Jet & jet)
 	fillByte(genHadronFlavourb_, jet.hadronFlavour());
 	fillByte(genNbHadronsb_, jet.jetFlavourInfo().getbHadrons().size());
 	fillByte(genNcHadronsb_, jet.jetFlavourInfo().getcHadrons().size());
+
+	fillFloat(cCSVb_,jet.bDiscriminator("pfCombinedCvsBJetTags"));
+	fillFloat(DeepCSVbb_,jet.bDiscriminator("deepFlavourJetTags:probb"   ));
+	fillFloat(DeepCSVcb_,jet.bDiscriminator("deepFlavourJetTags:probc"   ));
+	fillFloat(DeepCSVlb_,jet.bDiscriminator("deepFlavourJetTags:probudsg"));
+	fillFloat(DeepCSVbbb_,jet.bDiscriminator("deepFlavourJetTags:probbb"  ));
+	fillFloat(DeepCSVccb_,jet.bDiscriminator("deepFlavourJetTags:probcc"  ));
+	fillFloat(cMVAv2b_,jet.bDiscriminator("pfCombinedMVAV2BJetTags"));
 	
 	candidateNtuplizer_->newJet(jet,getIndex());
 	clusterNtuplizer_->newJet(jet,getIndex());

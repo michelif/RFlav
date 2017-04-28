@@ -23,7 +23,8 @@ private:
 	ClusterNtuplizer * clusterNtuplizer_;
 	size_t ptb_, etab_, phib_, massb_, areab_;
 	size_t genPtb_, genPartonidb_, genFlavourb_, genGlavourCleanedb_, genPartonFlavourb_, genHadronFlavourb_, genNbHadronsb_, genNcHadronsb_;
-;
+	size_t cCSVb_, DeepCSVbb_, DeepCSVcb_, DeepCSVlb_, DeepCSVbbb_, DeepCSVccb_, cMVAv2b_;
+	
 };
 
 

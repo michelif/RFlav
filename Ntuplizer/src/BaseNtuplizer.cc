@@ -92,11 +92,14 @@ void BaseNtuplizer::setDefaults()
 
 void BaseNtuplizer::resetIndex(bool sharedToo)
 { 
-	index_ = -1; 
+	index_ = -1; 	
 	maxindex_ = 0;
 	if( sharedToo ) { 
 		for(auto & shIdx : sharedIndexes_) { shIdx = -1; }
 	}
+	/// event_ = 0;
+	/// lumi_ = 0;
+	/// run_ = 0;
 }
 
 size_t BaseNtuplizer::bookSharedIndex(const std::string & name)

@@ -24,24 +24,24 @@ public:
 	virtual void newEvent(const edm::Event & event, const edm::EventSetup& eventSetup);
 	
 protected:
-	size_t bookByte(const std::string & name, char defaultVal=0);
+	size_t bookByte(const std::string & name, char defaultVal=-1);
 	void fillByte(size_t id, char val) { bytes_[id] = val; };
 
-	size_t bookInt(const std::string & name, int defaultVal=0);
+	size_t bookInt(const std::string & name, int defaultVal=-1);
 	void fillInt(size_t id, int val) { ints_[id] = val; };
 	
-	size_t bookFloat(const std::string & name, float defaultVal=0.);
+	size_t bookFloat(const std::string & name, float defaultVal=std::numeric_limits<float>::quiet_NaN());
 	void fillFloat(size_t id, float val) { floats_[id] = val; };
 	
-	size_t bookVInt(const std::string & name, std::vector<int> defaultVal=std::vector<int>(0));
+	size_t bookVInt(const std::string & name, std::vector<int> defaultVal=std::vector<int>());
 	void fillVInt(size_t id, std::vector<int> val) { vints_[id] = val; };
 	
-	size_t bookVFloat(const std::string & name, std::vector<float> defaultVal=std::vector<float>(0));
+	size_t bookVFloat(const std::string & name, std::vector<float> defaultVal=std::vector<float>());
 	void fillVFloat(size_t id, std::vector<float> val) { vfloats_[id] = val; };
 
 	void setDefaults();
-	void fillTree() { tree_->Fill(); }
-
+	void fillTree(bool reset=true) { tree_->Fill(); if( reset ) { setDefaults(); } }
+	
 	void setTree(TTree * tree) { tree_ = tree; };
 	void bookBranches();
 	void bookIndex(const std::string & name) { indexName_ = name; bookIndex_ = true; };

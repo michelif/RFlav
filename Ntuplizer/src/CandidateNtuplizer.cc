@@ -13,15 +13,16 @@ CandidateNtuplizer::CandidateNtuplizer(const edm::ParameterSet &cfg, edm::Consum
 {
 	bookIndex("Cand_index");
 	ijetb_ = bookSharedIndex("Jet_index");
-
+	
 	ptb_  = bookFloat("Cand_pt");
 	etab_ = bookFloat("Cand_eta");
 	phib_ = bookFloat("Cand_phi");
 	typeb_ = bookByte("Cand_type");
+	ptrelb_  = bookFloat("Cand_ptRel");
 	deltaRb_ = bookFloat("Cand_deltaR");
-
+	
 	distb_ = bookFloat("Track_dist");
-	lengthb_ = bookFloat("Track_lenght");
+	lengthb_ = bookFloat("Track_length");
 	dxyb_ = bookFloat("Track_dxy");
 	dxyErrorb_ = bookFloat("Track_dxyError");
 	dzb_ = bookFloat("Track_dz");
@@ -105,6 +106,8 @@ std::pair<reco::TransientTrack,BaseNtuplizer::index_t> & CandidateNtuplizer::add
 		fillFloat(etab_,cand->eta());
 		fillFloat(phib_,cand->phi());
 		fillByte(typeb_,cand->pdgId());
+		
+		fillFloat(ptrelb_,cand->pt()/currJet_->pt());
 		float deltaR = reco::deltaR( *cand, *currJet_ );
 		fillFloat(deltaRb_,deltaR);
 		
