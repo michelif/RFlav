@@ -4,7 +4,10 @@ from FWCore.ParameterSet.VarParsing import VarParsing
 
 process = cms.Process("Analysis")
 
-options = VarParsing ('analysis')
+from RFlavour.MetaData.JobConfig import customize
+
+## options = VarParsing ('analysis')
+options = customize.options
 
 options.register('runOnData', False,
     VarParsing.multiplicity.singleton,
@@ -26,6 +29,8 @@ options.register('wantSummary', False,
     VarParsing.varType.bool,
     "Print out trigger and timing summary"
 )
+
+customize.parse()
 
 jetCorrectionsAK4 = ('AK4PFchs', ['L1FastJet', 'L2Relative', 'L3Absolute'], 'None')
 
@@ -122,11 +127,12 @@ process.maxEvents = cms.untracked.PSet( input = cms.untracked.int32(options.maxE
 
 ## Options and Output Report
 process.options   = cms.untracked.PSet(
-    ## reportEvery = cms.untracked.int32(100),
     wantSummary = cms.untracked.bool(options.wantSummary),
     allowUnscheduled = cms.untracked.bool(True)
 )
 
+process.load("FWCore.MessageService.MessageLogger_cfi")
+process.MessageLogger.cerr.FwkReport.reportEvery = cms.untracked.int32( 500 )
 
 process.load("Configuration.StandardSequences.GeometryDB_cff")
 process.load("Configuration.StandardSequences.MagneticField_cff")
@@ -168,4 +174,6 @@ process.p = cms.Path(
     process.filter*process.rflavourNtuplizerSequence
     )
 
-open('pydump.py','w').write(process.dumpPython())
+customize(process)
+
+# open('pydump.py','w').write(process.dumpPython())
