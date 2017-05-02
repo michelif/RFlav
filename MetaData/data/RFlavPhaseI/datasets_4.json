@@ -1,0 +1,882 @@
+{
+    "/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/PhaseIFall16MiniAOD-PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/MINIAODSIM": {
+        "files": [
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/004AD0D7-2EE2-E611-A4C0-0025901D08E8.root", 
+                "nevents": 69186
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/029683BD-6AE2-E611-B423-90B11C0BCE80.root", 
+                "nevents": 55881
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/043B8866-48E2-E611-B83B-0CC47A7C35D8.root", 
+                "nevents": 61203
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/0A55107B-26E3-E611-BE65-0090FAA573D0.root", 
+                "nevents": 61203
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/10EB2FBD-F2E1-E611-9E1D-24BE05BDAE61.root", 
+                "nevents": 53220
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/10F2AB42-3FE2-E611-A276-0025901D0C50.root", 
+                "nevents": 70073
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/12AC3608-1EE3-E611-933C-008CFA0518D4.root", 
+                "nevents": 10644
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/181F60F9-03E2-E611-9274-0CC47A7C3420.root", 
+                "nevents": 54994
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/1AB50D02-ECE2-E611-BE63-02163E019E4A.root", 
+                "nevents": 54994
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/1C9B2C19-15E2-E611-810D-0025905A613C.root", 
+                "nevents": 74508
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/22B17517-F3E1-E611-8221-A0000420FE80.root", 
+                "nevents": 103779
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/28974B8F-80E3-E611-BC66-7845C4F8AF24.root", 
+                "nevents": 31932
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/2A3F69B9-0CE3-E611-9527-0090FAA569C4.root", 
+                "nevents": 74508
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/2E366375-25E2-E611-9028-008CFA1979FC.root", 
+                "nevents": 82491
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/32D47706-05E3-E611-8447-02163E011C8C.root", 
+                "nevents": 58542
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/34998749-68E3-E611-B203-02163E01478B.root", 
+                "nevents": 63864
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/38657610-38E3-E611-AF33-0CC47A6C138A.root", 
+                "nevents": 47898
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/386C3871-68E3-E611-AA08-001E67A3EA89.root", 
+                "nevents": 15966
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/3AB86D7B-59E2-E611-9E95-A4BF01013D80.root", 
+                "nevents": 53220
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/3E3ED0F3-B7E2-E611-82DD-00266CFCC214.root", 
+                "nevents": 57655
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/3E6423CD-2EE2-E611-A4D8-001E67A3EA11.root", 
+                "nevents": 66525
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/3E9E846B-80E3-E611-A76E-0CC47A0AD780.root", 
+                "nevents": 887
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/400FEEF3-B7E2-E611-B90F-002590E7E00A.root", 
+                "nevents": 74508
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/4035B2EF-04E2-E611-8437-001E674FB207.root", 
+                "nevents": 63864
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/422EA2BB-61E2-E611-8E82-001E6757F1D4.root", 
+                "nevents": 54107
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/441F8A45-DAE1-E611-B75D-001E67586A2F.root", 
+                "nevents": 73621
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/442825E3-F2E1-E611-A366-24BE05C49891.root", 
+                "nevents": 103779
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/44CB0A64-61E2-E611-82C9-14187741278B.root", 
+                "nevents": 74508
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/4650D489-80E3-E611-B910-1CC1DE18CFD4.root", 
+                "nevents": 1774
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/48FDD36A-DDE2-E611-A7C7-002590D6005C.root", 
+                "nevents": 61203
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/4A7B368F-80E3-E611-BC73-0CC47A4C8EC8.root", 
+                "nevents": 4435
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/4C2F7BD5-7CE2-E611-B629-008CFA197D2C.root", 
+                "nevents": 53220
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/541EC730-A7E2-E611-8C30-0025902008A4.root", 
+                "nevents": 53220
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/58C3314B-4CE2-E611-9168-549F3525DB98.root", 
+                "nevents": 90474
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/60561979-81E3-E611-84C3-A0369FC5EE94.root", 
+                "nevents": 39915
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/647360DB-26E2-E611-A5D6-0CC47A4C8F1C.root", 
+                "nevents": 53220
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/6A071838-72E3-E611-8F68-70106F4D2638.root", 
+                "nevents": 58542
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/6CBABF04-FAE1-E611-9B64-002590FD5A72.root", 
+                "nevents": 61203
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/6E73BC88-8BE2-E611-A14C-008CFA0A565C.root", 
+                "nevents": 64751
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/6E8AC987-17E3-E611-84A3-0CC47A4D769A.root", 
+                "nevents": 6209
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/76438618-A0E2-E611-8926-001E677928DC.root", 
+                "nevents": 63864
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/7A3790D6-4DE3-E611-ADD2-002590DE6E2A.root", 
+                "nevents": 13305
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/7C90C87E-80E3-E611-A0EE-141877642F9D.root", 
+                "nevents": 47898
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/88899802-1EE3-E611-A5FF-0090FAA585D4.root", 
+                "nevents": 69186
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/8A351494-80E3-E611-BD74-02163E0141B5.root", 
+                "nevents": 21288
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/8C0AC119-8CE2-E611-9E09-001E67DFF609.root", 
+                "nevents": 62090
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/8E29B3A2-80E3-E611-8F65-001E67A40451.root", 
+                "nevents": 5322
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/8EC96C4A-FDE2-E611-B3CD-0CC47A4D766C.root", 
+                "nevents": 37254
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/96AD6CA0-D4E2-E611-9BCB-00266CFFA5E0.root", 
+                "nevents": 53220
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/9C0D60F5-03E2-E611-ABD7-0CC47A4D7650.root", 
+                "nevents": 78943
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/9C4E51D9-14E3-E611-9299-0090FAA57E54.root", 
+                "nevents": 87813
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/9E1FC396-80E3-E611-8CEE-0025905A6082.root", 
+                "nevents": 887
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/A63A6EA8-32E3-E611-A122-001E67504685.root", 
+                "nevents": 2661
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/A6FF8914-7DE2-E611-A46C-001E67792422.root", 
+                "nevents": 83378
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/A8DE0C89-80E3-E611-A8EA-0CC47ABB5178.root", 
+                "nevents": 45237
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/AC40879F-EAE1-E611-8076-24BE05C3DB21.root", 
+                "nevents": 83378
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/ACCD6D16-36E3-E611-B67A-00259073E382.root", 
+                "nevents": 58542
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/ACD6E358-7AE2-E611-8F01-0CC47A706FD6.root", 
+                "nevents": 57655
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/AE7E888A-59E2-E611-88F6-A4BF010256DF.root", 
+                "nevents": 74508
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/AEAECA73-2FE3-E611-8D6C-02163E013499.root", 
+                "nevents": 61203
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/B0082560-DDE2-E611-8E5F-D4AE52E911B3.root", 
+                "nevents": 6209
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/B284EB25-2EE2-E611-9B9A-6CC2173BBAA0.root", 
+                "nevents": 54994
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/B4BE1D85-6AE2-E611-A0A8-549F35AF446E.root", 
+                "nevents": 62090
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/BC44A762-61E2-E611-AB4E-001E675A67BB.root", 
+                "nevents": 58542
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/C6461404-15E2-E611-9339-0CC47A7C34D0.root", 
+                "nevents": 77169
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/C8FAB2A1-80E3-E611-829E-008CFA111330.root", 
+                "nevents": 5322
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/CABAE395-F4E2-E611-BDF9-008CFA580778.root", 
+                "nevents": 26610
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/CC636A22-77E3-E611-81EF-001E67E713A4.root", 
+                "nevents": 34593
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/CE40FA90-80E3-E611-9A67-001E67F33451.root", 
+                "nevents": 4435
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/D00EF296-80E3-E611-928F-0025907B4EC8.root", 
+                "nevents": 42576
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/D0C24564-DEE2-E611-AB14-0025904FE658.root", 
+                "nevents": 63864
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/D6DE5F94-80E3-E611-849F-001E67E6F404.root", 
+                "nevents": 5322
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/D84A3525-C6E2-E611-9EF5-047D7BD6DDF2.root", 
+                "nevents": 74508
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/D8ACA913-25E2-E611-9180-0CC47A13CB36.root", 
+                "nevents": 64751
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/DA88A62C-8BE2-E611-B679-001E67792558.root", 
+                "nevents": 72734
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/DE571A8B-80E3-E611-A9A9-001E6757E05C.root", 
+                "nevents": 2661
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/DE8C1ABD-BFE2-E611-9E33-5065F382C2B1.root", 
+                "nevents": 27497
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/E0AAD013-C5E2-E611-8956-008CFAFBF294.root", 
+                "nevents": 58542
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/E40C819B-80E3-E611-9BF6-0CC47AD98D08.root", 
+                "nevents": 2661
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/E665D8DD-04E3-E611-A998-D48564594F36.root", 
+                "nevents": 53220
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/E8BA5749-0AE2-E611-89DB-008CFA1111EC.root", 
+                "nevents": 67412
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/ECCAA5FC-3FE2-E611-B8F5-1866DAEB5D80.root", 
+                "nevents": 103779
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/F652ACCF-2EE2-E611-B1EB-B083FED3F4E3.root", 
+                "nevents": 103779
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/FE1BE82A-49E2-E611-A41E-6CC2173BBAA0.root", 
+                "nevents": 69186
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/60000/FEE948F1-58E2-E611-BBFB-002590491AE4.root", 
+                "nevents": 53220
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/0215AE2B-A2E3-E611-A9F4-0025904B5FAE.root", 
+                "nevents": 7983
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/04693471-5EE2-E611-8FF3-0025905A6134.root", 
+                "nevents": 69186
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/04E74877-C0E2-E611-9925-90B11C27EA38.root", 
+                "nevents": 53220
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/0600DAF8-F1E2-E611-883F-008CFA1112B0.root", 
+                "nevents": 53220
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/0605B464-B1E2-E611-9997-A4BADB1E6796.root", 
+                "nevents": 71847
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/06252122-A3E2-E611-94F1-002590494C92.root", 
+                "nevents": 58542
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/0A0FCCA8-BFE2-E611-B9BB-A0000420FE80.root", 
+                "nevents": 76282
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/0EECAAD4-83E2-E611-B187-008CFA56D894.root", 
+                "nevents": 54994
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/100DCE7A-31E4-E611-96C2-001E67792488.root", 
+                "nevents": 2661
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/108F08E6-47E2-E611-8218-0025905B858C.root", 
+                "nevents": 54994
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/12DA4CE5-A2E2-E611-BD54-141877411D83.root", 
+                "nevents": 103779
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/14448A4F-94E2-E611-A095-1866DAEB5C78.root", 
+                "nevents": 58542
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/145BF5E1-A2E2-E611-8432-002590D9D8BC.root", 
+                "nevents": 54994
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/163487D3-E4E2-E611-AAFF-00144F4525AE.root", 
+                "nevents": 53220
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/16891AEA-C7E2-E611-834F-002590FD5A48.root", 
+                "nevents": 55881
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/18BD87C0-E4E2-E611-8A6A-0242AC130004.root", 
+                "nevents": 90474
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/1CA04272-36E3-E611-8256-A0000420FE80.root", 
+                "nevents": 103779
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/24375A84-81E3-E611-9961-001E67E340DE.root", 
+                "nevents": 18627
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/2674922D-D5E2-E611-835C-782BCB20D86D.root", 
+                "nevents": 53220
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/282AD067-2CE3-E611-ADB9-0025904A93AA.root", 
+                "nevents": 53220
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/2867820F-8CE2-E611-A449-A4BF01025A8B.root", 
+                "nevents": 57655
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/2A578542-6EE2-E611-89C9-00259029E920.root", 
+                "nevents": 54107
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/2AA5DD88-A9E2-E611-A986-001E675A6D10.root", 
+                "nevents": 55881
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/32B323C5-E3E2-E611-9E99-24BE05CEED81.root", 
+                "nevents": 79830
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/32EDE7E5-74E2-E611-91A0-008CFA0A58B4.root", 
+                "nevents": 54107
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/366C032B-B9E2-E611-A3F6-001EC94BA146.root", 
+                "nevents": 61203
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/3AA1BD16-4DE3-E611-AED4-24BE05C46B01.root", 
+                "nevents": 63864
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/3AC51961-31E4-E611-B8C6-0CC47A4C8E2E.root", 
+                "nevents": 5322
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/3E0DA1A1-BFE2-E611-93EA-E0071B7AC700.root", 
+                "nevents": 103779
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/3E8717A2-BFE2-E611-9B70-24BE05C4D8C1.root", 
+                "nevents": 103779
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/3EB29810-8CE2-E611-9AC5-001E67E6F873.root", 
+                "nevents": 53220
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/404E0283-F8E2-E611-9B47-001E67346BA1.root", 
+                "nevents": 53220
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/40DE7AB8-2DE3-E611-BA48-E0071B7A3540.root", 
+                "nevents": 98457
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/421BEF52-0DE3-E611-BF9D-24BE05C4D801.root", 
+                "nevents": 98457
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/44C452E3-63E3-E611-ADF3-002590E7DE36.root", 
+                "nevents": 61203
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/44D06ED7-E2E3-E611-B198-001E67457A5D.root", 
+                "nevents": 47898
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/44FA2C3C-31E4-E611-BC22-0CC47A6C1034.root", 
+                "nevents": 42576
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/466E1451-B1E2-E611-A292-549F3525C4EC.root", 
+                "nevents": 55881
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/48037715-7AE3-E611-8109-842B2B768127.root", 
+                "nevents": 10644
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/4814FBFD-93E2-E611-88E2-70106F49CDF0.root", 
+                "nevents": 60316
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/50DFF932-2DE3-E611-AE25-E0071B7A9810.root", 
+                "nevents": 61203
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/5CC31D24-31E4-E611-B81B-02163E013391.root", 
+                "nevents": 5322
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/601E74B9-2DE3-E611-8B26-24BE05C62611.root", 
+                "nevents": 55881
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/6277A5C6-D5E2-E611-91A2-02163E013764.root", 
+                "nevents": 61203
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/64CAEB4F-B1E2-E611-A548-A0000420FE80.root", 
+                "nevents": 52333
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/660D5D5E-31E4-E611-A6A9-0025905B858A.root", 
+                "nevents": 887
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/662A8BC1-E3E2-E611-9B6E-003048FF16DE.root", 
+                "nevents": 77169
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/66FF929C-17E3-E611-94AA-001E67457E7C.root", 
+                "nevents": 63864
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/6862F503-C1E2-E611-BA7D-90B11C06E1A0.root", 
+                "nevents": 55881
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/6A5A4BC3-97E3-E611-9DF4-002590D9D9E4.root", 
+                "nevents": 23949
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/6C48891E-D2E3-E611-ADF8-02163E012A8B.root", 
+                "nevents": 45237
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/6CDFC765-06E3-E611-8294-00259073E3E4.root", 
+                "nevents": 39915
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/70EE021F-54E3-E611-88A0-002590E7DF2A.root", 
+                "nevents": 63864
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/72C774C0-E3E2-E611-BB6F-E0071B7A9810.root", 
+                "nevents": 79830
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/74BD7EF8-9AE2-E611-9D6D-549F3525C4EC.root", 
+                "nevents": 53220
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/74F55B0F-27E4-E611-89B4-002590E7DE70.root", 
+                "nevents": 7983
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/760F9C2E-3EE3-E611-BC0D-0025904A8ECE.root", 
+                "nevents": 53220
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/763B391F-3EE3-E611-BD4B-A0000420FE80.root", 
+                "nevents": 69186
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/769FB8E1-A2E2-E611-BEC8-001E67A3EF70.root", 
+                "nevents": 82491
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/780FB3B4-2AE4-E611-BBCB-0090FAA59114.root", 
+                "nevents": 3548
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/78C32EF2-9BE2-E611-A133-001E67E6F80F.root", 
+                "nevents": 53220
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/78E0DBDD-C1E3-E611-A260-008CFA1C93FC.root", 
+                "nevents": 42576
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/7C8D3B5F-8BE2-E611-AA70-782BCB20E908.root", 
+                "nevents": 69186
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/7C9D8412-32E4-E611-9143-001E674FBA1D.root", 
+                "nevents": 2661
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/801DECD0-6AE3-E611-AEE6-549F35AC7E8A.root", 
+                "nevents": 31932
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/841E7370-95E2-E611-BB24-90B11C08CDB7.root", 
+                "nevents": 89587
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/881D3FB6-D5E2-E611-8EAE-008CFA1111AC.root", 
+                "nevents": 61203
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/88CC8C0B-CFE2-E611-A87B-008CFA110C64.root", 
+                "nevents": 55881
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/8C48EAB5-2DE3-E611-8A68-24BE05C4D851.root", 
+                "nevents": 71847
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/8C59D138-8FE3-E611-A877-A4BF01013F33.root", 
+                "nevents": 45237
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/8CEADD3D-84E2-E611-BAAA-001E67792736.root", 
+                "nevents": 53220
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/8ED999B7-3EE3-E611-81DD-002590E7D7CE.root", 
+                "nevents": 53220
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/92E00ECA-A2E2-E611-9889-B083FED426E5.root", 
+                "nevents": 58542
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/94D56F22-32E4-E611-A3D2-008CFA56D870.root", 
+                "nevents": 5322
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/961B5C4F-13E3-E611-A8AA-24BE05CECB51.root", 
+                "nevents": 69186
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/9A6AB33F-46E3-E611-AAB8-A0000420FE80.root", 
+                "nevents": 87813
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/9ACEEAEA-13E3-E611-9127-24BE05C63721.root", 
+                "nevents": 77169
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/9C642C2F-31E4-E611-BDD9-002590FD5A48.root", 
+                "nevents": 5322
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/9CC85621-B2E2-E611-B569-001E67D89532.root", 
+                "nevents": 54994
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/9E3B65A5-2DE2-E611-999E-0025905A60D0.root", 
+                "nevents": 61203
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/A2139C7E-13E3-E611-B9E7-24BE05C63791.root", 
+                "nevents": 69186
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/A26B3365-06E3-E611-966F-00266CFFC598.root", 
+                "nevents": 62090
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/A4C24A21-4DE3-E611-9BB8-0CC47AD99116.root", 
+                "nevents": 58542
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/A664FB52-0DE3-E611-ACBF-E0071B7A6850.root", 
+                "nevents": 95796
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/A8464040-06E3-E611-B1D4-02163E01349C.root", 
+                "nevents": 61203
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/AAE4763D-46E3-E611-9B77-5065F3812221.root", 
+                "nevents": 69186
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/ACA72547-BAE2-E611-A201-0242AC130002.root", 
+                "nevents": 61867
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/AE0E6CB5-2DE3-E611-B90A-24BE05C68671.root", 
+                "nevents": 103779
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/B0BE418A-A9E2-E611-9C76-001E67A3FE66.root", 
+                "nevents": 77169
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/B2B8C87B-0CE3-E611-9453-0025907254D4.root", 
+                "nevents": 58542
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/B6324A60-7EE2-E611-9B51-002590A88802.root", 
+                "nevents": 55881
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/B8383AAE-CEE2-E611-8B5D-002590207C08.root", 
+                "nevents": 54107
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/B8E11DE1-B9E2-E611-ADED-0025901D42BC.root", 
+                "nevents": 58542
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/BC8A03CC-96E2-E611-8BE6-002590FD5A72.root", 
+                "nevents": 53220
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/BE40BE09-DCE2-E611-9849-001E673475A6.root", 
+                "nevents": 60316
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/BE448705-DCE2-E611-9ECF-24BE05CEADD1.root", 
+                "nevents": 103779
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/BEC25DBA-2CE3-E611-B00F-0CC47A4C8EC6.root", 
+                "nevents": 26610
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/C4CC13B8-50E2-E611-8341-008CFA0A56C8.root", 
+                "nevents": 53220
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/C6CE4A4C-8BE2-E611-B702-00266CFCC8A8.root", 
+                "nevents": 54994
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/C87266A6-31E4-E611-9901-008CFA1111A0.root", 
+                "nevents": 2661
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/CA75D06F-45E3-E611-B376-1C6A7A26C983.root", 
+                "nevents": 58542
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/CE0937EB-3EE3-E611-8FA6-0025904C7F5C.root", 
+                "nevents": 31045
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/CE1C8015-36E3-E611-92D8-C4346BC076D0.root", 
+                "nevents": 53220
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/D0325350-B1E2-E611-A484-B083FED424C4.root", 
+                "nevents": 61203
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/D04975C6-D3E3-E611-9683-485B39897251.root", 
+                "nevents": 7983
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/D072DFEE-13E3-E611-A86B-E0071B749C80.root", 
+                "nevents": 79830
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/D24FA865-9BE2-E611-AFE2-008CFA580730.root", 
+                "nevents": 55881
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/D4C0508D-B2E2-E611-9117-001E67A40451.root", 
+                "nevents": 85152
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/D4C51DF5-13E3-E611-9FE2-24BE05C6E561.root", 
+                "nevents": 54994
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/D4C726D1-22E3-E611-8D8F-0CC47AA99070.root", 
+                "nevents": 55881
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/D66B766E-5EE2-E611-ACCD-0CC47A4C8F2C.root", 
+                "nevents": 66525
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/D68F370D-67E2-E611-AF5E-008CFA198258.root", 
+                "nevents": 60316
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/D6D88A20-4DE3-E611-AAA6-002590E7D7D0.root", 
+                "nevents": 79830
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/DCEA3CFE-13E3-E611-89F5-A0000420FE80.root", 
+                "nevents": 61203
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/DE0D9370-5EE2-E611-8AC9-0CC47A7C34A6.root", 
+                "nevents": 79830
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/DEA0FE90-B2E2-E611-B578-90B11C06BDDA.root", 
+                "nevents": 53220
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/E03C3C09-DCE2-E611-9D2C-E0071B7A5650.root", 
+                "nevents": 63864
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/E0F76EB8-5CE3-E611-B3F1-848F69FD4FC1.root", 
+                "nevents": 47011
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/E2273BE8-6AE3-E611-818D-0CC47AA9943A.root", 
+                "nevents": 53220
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/E2C1C2D2-22E3-E611-81A0-A0000420FE80.root", 
+                "nevents": 74508
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/E6628762-C0E2-E611-A6EC-001EC94BA146.root", 
+                "nevents": 55881
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/EC8135BB-D5E2-E611-AFB9-008CFA111314.root", 
+                "nevents": 54994
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/EE40C664-F8E2-E611-9A16-02163E019B8E.root", 
+                "nevents": 57655
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/F00E5408-32E4-E611-AF51-A0000420FE80.root", 
+                "nevents": 2661
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/F241742E-0DE3-E611-8A1C-B083FED138B3.root", 
+                "nevents": 48785
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/F2E2AC3F-2CE3-E611-90E0-0CC47A4C8E20.root", 
+                "nevents": 21288
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/F40B5F72-5EE2-E611-A985-0025905B859A.root", 
+                "nevents": 90474
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/F4340951-2FE2-E611-9571-0090FAA57E64.root", 
+                "nevents": 53220
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/F4EAA3EB-79E3-E611-AADF-A0369F301924.root", 
+                "nevents": 58542
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/F6F92A2A-0DE3-E611-84CB-02163E013631.root", 
+                "nevents": 61203
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/FA2B62EB-A2E2-E611-9E94-008CFA111270.root", 
+                "nevents": 65638
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/FA79CC0A-1BE3-E611-BF64-90B11C2C93B1.root", 
+                "nevents": 55881
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/FC32770A-32E4-E611-8F2C-002590DE6E88.root", 
+                "nevents": 1774
+            }, 
+            {
+                "name": "/store/mc/PhaseIFall16MiniAOD/QCD_Pt_80to120_TuneCUETP8M1_13TeV_pythia8/MINIAODSIM/PhaseIFall16PUFlat20to50_PhaseIFall16_81X_upgrade2017_realistic_v26-v1/80000/FE0E9125-3EE3-E611-8481-0CC47AD98CEA.root", 
+                "nevents": 101118
+            }
+        ]
+    }
+}
